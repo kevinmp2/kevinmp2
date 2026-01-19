@@ -77,11 +77,3 @@ Estudiante de 5to año en la Universidad de San Carlos de Guatemala (USAC), apas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinmp2)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinmp2&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  ⭐️ From <a href="https://github.com/kevinmp2">kevinmp2</a>
-</div>
