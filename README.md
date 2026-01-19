@@ -1,4 +1,4 @@
-# 👋 Hola, soy Kewin Patzan
+# 👋 Hola, soy Kevin Patzan
 
 ## 💻 Desarrollador Full-Stack | Estudiante de Ingeniería en Sistemas
 
@@ -9,10 +9,9 @@ Estudiante de 5to año en la Universidad de San Carlos de Guatemala (USAC), apas
 ### 🚀 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Ciencias y Sistemas - USAC
-- 🔭 Actualmente aprendiendo: **Administración de Bases de Datos Oracle** (INTECAP)
 - 🌱 Graduado del programa **Oracle ONE Education** (Backend)
 - 💼 Técnico en **Desarrollo Java & Android** (INTECAP)
-- 📍 Ubicación: Guatemala
+- 💼 Técnico en **Administrador De Bases De Datos Oracle** (INTECAP)
 - ⚡ Dato curioso: Creyente en el aprendizaje continuo y las mejores prácticas de DevOps
 
 ---
@@ -70,7 +69,7 @@ Estudiante de 5to año en la Universidad de San Carlos de Guatemala (USAC), apas
 
 - 🎓 **Oracle ONE Education** - Backend Development (2023)
 - 💼 **INTECAP** - Desarrollador de Aplicaciones Java & Android (2024)
-- 📚 **INTECAP** - Administrador de Bases de Datos Oracle (En curso - 2025)
+- 📚 **INTECAP** - Administrador de Bases de Datos Oracle (2025)
 
 ---
 
@@ -79,12 +78,6 @@ Estudiante de 5to año en la Universidad de San Carlos de Guatemala (USAC), apas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewin-patzan-07497a258/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kewinelectricidad418@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinmp2)
-
----
-
-### 💡 Frase Motivacional
-
-> "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
 
 ---
 
