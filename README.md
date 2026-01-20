@@ -1,8 +1,8 @@
 # 👋 Hola, soy Kevin Patzan
 
-## 💻 Desarrollador Full-Stack | Estudiante de Ingeniería en Sistemas
+## 💻 🔧 Software Engineering Student | Backend, Frontend & Cloud Infrastructure
 
-Estudiante de 5to año en la Universidad de San Carlos de Guatemala (USAC), apasionado por el desarrollo de software y las tecnologías cloud. Especializado en crear soluciones backend escalables y desplegar aplicaciones en la nube.
+Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend con diferentes lenguajes, cloud, y prácticas DevOps. He trabajado en proyectos que involucran desarrollo de APIs RESTful, integración de bases de datos (Oracle, MySQL, MongoDB), containerización con Docker, y orquestación con Kubernetes. Familiarizado con servicios cloud de AWS y GCP.
 
 ---
 
