@@ -6,7 +6,7 @@
 
 ## 💻 🔧 Software Engineering Student | Backend, Frontend & Cloud Infrastructure
 
-Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend con diferentes lenguajes, cloud, y prácticas DevOps. He trabajado en proyectos que involucran desarrollo de APIs RESTful, integración de bases de datos (Oracle, MySQL, MongoDB), containerización con Docker, y orquestación con Kubernetes. Familiarizado con servicios cloud de AWS y GCP.
+Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend con diferentes lenguajes, cloud, y prácticas DevOps. He trabajado en proyectos que involucran desarrollo de APIs RESTful, Microservicios, gRPC, integración de bases de datos (SQL Server, Oracle, MySQL, MongoDB), containerización con Docker, y orquestación con Kubernetes. Familiarizado servicios cloud de AWS y GCP.
 
 ---
 
