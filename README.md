@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh6Mjl2NzViMGVlYzZpbGMwZzV0NW16c2QzdHRrOHJiN2I2czFlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif" width="600" alt="Matrix">
+</div>
+
 # 👋 Hola, soy Kevin Patzan
 
 ## 💻 🔧 Software Engineering Student | Backend, Frontend & Cloud Infrastructure
@@ -12,7 +16,7 @@ Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend 
 - 🌱 Graduado del programa **Oracle ONE Education** (Backend)
 - 💼 Técnico en **Desarrollo Java & Android** (INTECAP)
 - 💼 Técnico en **Administrador De Bases De Datos Oracle** (INTECAP)
-- ⚡ Dato curioso: Creyente en el aprendizaje continuo y las mejores prácticas de DevOps
+
 
 ---
 
@@ -60,6 +64,15 @@ Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmp2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinmp2/kevinmp2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinmp2/kevinmp2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kevinmp2/kevinmp2/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 ---
 
 ### 🏆 Certificaciones y Formación
@@ -76,4 +89,3 @@ Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kewinelectricidad418@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinmp2)
 
----
