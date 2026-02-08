@@ -71,8 +71,6 @@ Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kevinmp2/kevinmp2/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
 ---
 
 ### 🏆 Certificaciones y Formación
