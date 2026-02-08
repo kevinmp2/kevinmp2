@@ -60,8 +60,8 @@ Estudiante de 5to año en Ingeniería en Sistemas (USAC). Desarrollando backend 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinmp2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmp2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kevinmp2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevinmp2&layout=compact&theme=tokyonight&hide_border=true&hide=TeX" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
